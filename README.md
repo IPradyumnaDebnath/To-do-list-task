@@ -1,8 +1,10 @@
-GIT Clone
-Clone this repo to your local
+### GIT Clone
+Clone this repo
 
-npm install
-Install this project and all dependencies
+### npm install
+Install project and dependencies
 
-npm start
-Runs the app in the development mode.
+### `npm start`
+
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
